@@ -1,7 +1,11 @@
 @import "bootstrap";
 
 body{
-	
+	background: url(bg.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
 	background-color:#F5F5F1;
 	color:#333333;
 	font-family:sans-serif;
