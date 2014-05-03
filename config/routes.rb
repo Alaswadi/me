@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'other/help'
+
+  get 'pages/help'
+
   get 'pages/about'
 
   get 'pages/contact'
